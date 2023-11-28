@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235807416604",
+    "project_id": "bismillahdb-223d7",
+    "storage_bucket": "bismillahdb-223d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235807416604:android:71afc81c05a28269aa9ad9",
+        "android_client_info": {
+          "package_name": "com.example.ebook_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQyRuo7Zgqr7ecwTo95_0odjzU-QQFGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
