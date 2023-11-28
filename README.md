@@ -1,16 +1,18 @@
-# ebook_app
+E-Book GuBuk (Gudang Buku)
 
-A new Flutter project.
 
-## Getting Started
+# Short Description:
+An e-book is a digital version of a book designed for electronic devices. It allows readers to access content on devices like smartphones or tablets. E-books offer convenience, portability, and often include interactive features for an enhanced reading experience.
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This application was created to fulfill the final project of the Mobile Programming Course by Group 8 Program Studi S1 Pendidikan Teknologi Informasi 2022 Fakultas Teknik Universitas Negeri Surabaya With our team :
+1. Nelani Shafatia Zulatifa (22050974003)
+2. Moch. Anang Ardiansyah (22050974006)
+3. Rendi Eko Kurniawan (22050974007)
+4. Atha Maulidan Zuhdi (22050974018)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Special Thanks to 
+Allah SWT. 
+and all teams who contributed.
