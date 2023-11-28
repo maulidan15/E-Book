@@ -10,13 +10,13 @@
 An e-book is a digital version of a book designed for electronic devices. It allows readers to access content on devices like smartphones or tablets. E-books offer convenience, portability, and often include interactive features for an enhanced reading experience.
 
 # Description:
-Sign-Up Page
-Sign-In Page
-Main Page
-Profile Page
-Re-Password Page
-Book Type Page
-Reader Page
+Sign-Up Page,
+Sign-In Page,
+Main Page,
+Profile Page,
+Re-Password Page,
+Book Type Page,
+Reader Page.
 
 1. Account registration.
 2. Have a login account.
